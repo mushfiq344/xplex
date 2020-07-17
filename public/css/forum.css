@@ -1,0 +1,39 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+#reload {
+    padding-left: 60px; padding-top: 25px;
+}
+
+#heart{
+    font-size:24px;color: #B71C1C;padding-top: 60px;margin-left: 30px
+}
+
+#count{
+    font-size:24px;
+    color: #B71C1C;
+    padding-top: 52px;
+    margin-left: 60px;
+}
+
+
+@media only screen and (max-width: 600px){
+
+    #reload {
+        padding-left: 0;
+        padding-top: 0;
+        margin-left: 10px;
+    }
+    #heart{
+        padding-top: 0;
+        margin-left: 50px;
+    }
+
+    #count{
+        padding-top: 0;
+        margin-left: 0;
+
+    }
+
+}

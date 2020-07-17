@@ -1,0 +1,56 @@
+.grid {
+    flex: 1;
+    overflow: auto
+}
+.grid {
+    margin: 0 auto;
+    padding: 20px
+}
+
+@media only screen and (min-width:768px) {
+    .grid {
+        align-items: center;
+        display: flex;
+        max-width: 1260px;
+        width: 100%
+    }
+
+    .grid>* {
+        flex: 1
+    }
+}
+@media only screen and (min-width:768px) {
+    header {
+        margin-right: 60px;
+        max-width: 360px;
+        padding-bottom: 40px;
+        text-align: left
+    }
+}
+
+.icon {
+    fill: currentColor;
+    height: 16px;
+    vertical-align: -3px;
+    width: 16px
+}
+
+a svg,
+button svg,
+button.faux-link svg,
+label svg {
+    pointer-events: none
+}
+
+audio,
+img,
+video {
+    max-width: 100%;
+    vertical-align: middle
+}
+
+
+video {
+    max-width: 100%;
+    vertical-align: middle
+}

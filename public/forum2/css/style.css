@@ -1,0 +1,47 @@
+.drop-sdw {
+	box-shadow: 0 0px 50px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.15) 
+}
+
+.bdn {
+	border: 0;
+}
+
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+
+.dropdown>.dropdown-toggle:active {
+  /*Without this, clicking will make it sticky*/
+    pointer-events: none;
+}
+
+.nav-sdw {
+-webkit-box-shadow: 2px 5px 16px -2px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px 5px 16px -2px rgba(0,0,0,0.75);
+box-shadow: 2px 5px 16px -2px rgba(0,0,0,0.75);
+}
+
+
+
+.nav-item a:hover {
+	background: #000000;
+     color: white;
+     cursor: pointer;}
+
+
+@media (max-width: 1283px ) {
+#search{ display: none;
+
+}
+	
+}
+
+@media (min-width: 1283px) {
+	#search_ico{ display: none;
+
+	}
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+}

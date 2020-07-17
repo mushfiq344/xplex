@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56.446 64.966">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #444;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 38px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Group_54" data-name="Group 54" transform="translate(-811 -693)">
+    <path id="Path_58" data-name="Path 58" class="cls-1" d="M843.878,704.633l11.335,18.053-7.977,18.473H824.565l-12.175-18.473,12.175-18.053Z"/>
+    <path id="search" class="cls-1" d="M56.572,53.253,42.657,38.781a23.6,23.6,0,1,0-18.068,8.43A23.353,23.353,0,0,0,38.114,42.94L52.134,57.522a3.079,3.079,0,1,0,4.438-4.269ZM24.59,6.158A17.448,17.448,0,1,1,7.142,23.606,17.467,17.467,0,0,1,24.59,6.158Z" transform="translate(810.016 699.5)"/>
+    <text id="_-" data-name="-" class="cls-2" transform="translate(827 734)"><tspan x="0" y="0">-</tspan></text>
+  </g>
+</svg>
